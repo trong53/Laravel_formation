@@ -140,3 +140,5 @@ Module 20: Project (43 videos)
         - Validation
         
         - Ckeditor , FileManager
+        
+        - HTML, CSS, Menu, Header, Footer, Pagination, Filters, .....
