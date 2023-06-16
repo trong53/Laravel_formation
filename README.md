@@ -1,11 +1,12 @@
 # Laravel_formation
 Formation en ligne sur "Web Development with Laravel framework" 
 
-Le cours contient 20 modules contenant 241 vidéos de 5-30min/vidéo.
+Le cours contient 20 modules = 241 vidéos de 5-30min/vidéo.
 
 Avancement : actuellement sur la vidéo 110 (Projet sur Authentication et Authorization)
 
-Détails :
+
+Détails de la formation:
 
 Module 01: Introduction of Laravel Framework (3 videos)
 
