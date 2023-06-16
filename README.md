@@ -16,30 +16,55 @@ Module 01: Introduction of Laravel Framework
     Lession 03: Thiết lập cấu hình cần thiết cho Laravel
     
 Module 02: Basic programmation with Laravel Framework
+
  Lession 04: Route in Laravel - Part 1
+ 
  Lession 05: Route trong Laravel - Phần 2
+ 
  Lession 06: Controller trong Laravel
+ 
  Lession 07: Middleware trong Laravel
+ 
  Lession 08: View trong Laravel
+ 
  Lession 09: HTTP Request trong Laravel - Phần 1
+ 
  Lession 10: HTTP Request trong Laravel - Phần 2
+ 
  Lession 11: Blade Template Engine trong Laravel - Phần 1
+ 
  Lession 12: Blade Template Engine trong Laravel - Phần 2
+ 
  Lession 13: Blade Template Engine trong Laravel - Phần 3
+ 
  Bài 14: Blade Template Engine trong Laravel - Phần 4
+ 
  Bài 15: Blade Template Engine trong Laravel - Phần 5
+ 
  Bài 16: Blade Template Engine trong Laravel - Phần 6
+ 
  Bài 17: Blade Template Engine trong Laravel - Phần 7
+ 
  Bài 18: HTTP Response trong Laravel - Phần 1
+ 
  Bài 19: HTTP Response trong Laravel - Phần 2
+ 
  Bài 20: HTTP Response trong Laravel - Phần 3
+ 
  Bài 21: Validation trong Laravel - Phần 1
+ 
  Bài 22: Validation trong Laravel - Phần 2
+ 
  Bài 23: Validation trong Laravel - Phần 3
+ 
  Bài 24: Validation trong Laravel - Phần 4
+ 
  Bài 25: Validation trong Laravel - Phần 5
+ 
  Bài 26: Validation trong Laravel - Phần 6
+ 
  Bài 27: Validation trong Laravel - Phần 7
+ 
 Module 03: Làm Việc Với Database Laravel
 
 Module 03: Làm Việc Với Database Laravel
