@@ -7,98 +7,136 @@ Avancement : actuellement sur la vidéo 110 (Projet sur Authentication et Author
 
 Détails :
 
-Module 01: Introduction of Laravel Framework
+Module 01: Introduction of Laravel Framework (3 videos)
 
-    Lession 01: Presentation of Laravel Framework - Set-up of Laravel
+    - Presentation, Set-up, folder structure in Laravel project, lifetime of Request
     
-    Lession 02: Folder structure and lifetime of Request in Laravel Framework
+Module 02: Basic programmation with Laravel Framework (24 vidéos)
     
-    Lession 03: Thiết lập cấu hình cần thiết cho Laravel
+    - Routing (Route), Controller, Middleware, View, HTTP Request, HTTP Response
     
-Module 02: Basic programmation with Laravel Framework
+    - Blade template engine
+    
+    - Form's Validation
 
- Lession 04: Route in Laravel - Part 1
- 
- Lession 05: Route trong Laravel - Phần 2
- 
- Lession 06: Controller trong Laravel
- 
- Lession 07: Middleware trong Laravel
- 
- Lession 08: View trong Laravel
- 
- Lession 09: HTTP Request trong Laravel - Phần 1
- 
- Lession 10: HTTP Request trong Laravel - Phần 2
- 
- Lession 11: Blade Template Engine trong Laravel - Phần 1
- 
- Lession 12: Blade Template Engine trong Laravel - Phần 2
- 
- Lession 13: Blade Template Engine trong Laravel - Phần 3
- 
- Bài 14: Blade Template Engine trong Laravel - Phần 4
- 
- Bài 15: Blade Template Engine trong Laravel - Phần 5
- 
- Bài 16: Blade Template Engine trong Laravel - Phần 6
- 
- Bài 17: Blade Template Engine trong Laravel - Phần 7
- 
- Bài 18: HTTP Response trong Laravel - Phần 1
- 
- Bài 19: HTTP Response trong Laravel - Phần 2
- 
- Bài 20: HTTP Response trong Laravel - Phần 3
- 
- Bài 21: Validation trong Laravel - Phần 1
- 
- Bài 22: Validation trong Laravel - Phần 2
- 
- Bài 23: Validation trong Laravel - Phần 3
- 
- Bài 24: Validation trong Laravel - Phần 4
- 
- Bài 25: Validation trong Laravel - Phần 5
- 
- Bài 26: Validation trong Laravel - Phần 6
- 
- Bài 27: Validation trong Laravel - Phần 7
- 
-Module 03: Làm Việc Với Database Laravel
+Module 03: Database in Laravel (16 videos)
 
-Module 03: Làm Việc Với Database Laravel
+    - Database (raw queries)
+    
+    - Query builder
+    
+    - Mini project : create, read, update, delete of Users, Filters, Pagination.
 
-Module 04: Eloquent ORM Laravel
+Module 04: Eloquent ORM Laravel (17 videos)
 
-Module 05: Migrations - Seeder
+    - Queries (CRUD), Soft Deletes
+    
+    - Eloquent Relationship : One to One, One to Many, Has One Through, Has Many Through, Many to Many, and Default Model
+    
+    - Query in relation tables
 
-Module 06: Authentication Trong Laravel
+Module 05: Migrations - Seeder (9 videos)
 
-Module 07: Multiple Authentication Trong Laravel
+    - General view
+    
+    - Work with table, columns, index, foreign key in migration.
+    
+    - Seeder
 
-Module 08: Authorization Laravel - Phân Quyền Người Dùng
+Module 06: Authentication in Laravel (9 videos)
 
-Module 09: Tích Hợp Đăng Nhập Thông Qua Mạng Xã Hội
+    - Configuration and Setup
+    
+    - Setup of Path, Wed interface
+    
+    - Custom Validation
+    
+    - Validator
+    
+    - Authentication by Email (sending email, confirmation by email) and "forget password"
 
-Module 10: Xây Dựng RESTful API Với Laravel
+Module 07: Multiple Authentication in Laravel (5 videos)
 
-Module 11: Xây Dựng Ứng Dụng Xác Thực OAuth 2.0
+    - Guards and customize Guards
 
-Module 12: Xử Lý Hàng Đợi Với Laravel Queue
+Module 08: Authorization Laravel (29 videos)
 
-Module 13: Làm Việc Với Task Scheduler Và Cronjob
+    - Authorization - Gate - Policy - Policy Filter
+    
+    - Authorization Project
 
-Module 14: Compiling Asset Với Laravel Mix
+Module 09: Login via social networks (9 videos)
 
-Module 15: Laravel Cache - Tối Ưu Hoá Hiệu Năng Ứng Dụng
+    - Laravel Social Login with Facebook
+    
+    - Laravel Social Login with Google
+     
+    - Laravel Social Login with Twitter
+     
+    - Laravel Social Login with Github
 
-Module 16: Laravel Event - Làm Việc Với Sự Kiện Trong Laravel
+Module 10: RESTful API in Laravel (17 videos)
 
-Module 17: Artisan Console Trong Laravel
+    - API, RESTful API CURD
+    
+    - API + Eloquent Resources
+    
+    - API + Laravel Sanctum
+    
+    - API + Laravel Passport
 
-Module 18: Repository Design Pattern
+Module 11: Build an application with OAuth 2.0 (4 videos)
 
-Module 19: Nâng Cấp Lên Laravel Modules
+    - Setup of OAuth 2.0, Management of client for Service API
 
-Module 20: Dự Án Xây Dựng Website Học Online
+Module 12: Laravel Queue (4 videos)
+
+Module 13: Task Scheduler and Cronjob (4 videos)
+
+Module 14: Compiling Asset with Laravel Mix (8 videos)
+
+Module 15: Laravel Cache - Performance Optimisation (10 videos)
+
+    - Cache, Cache Driver
+    
+    - Redis Cache
+    
+    - Cache Helper, Cache Tags
+
+Module 16: Laravel Event (6 videos)
+
+    - Event - Listenier - Dispatch Event
+    
+    - Queued Event Listener
+    
+    - Model Events
+
+Module 17: Artisan Console (7 videos)
+
+    - Create artisan consoles
+    
+    - Artisan Console Install Laravel
+
+Module 18: Repository Design Pattern (4 videos)
+
+    - Repository Interface, Base Repository
+
+Module 19: Nâng Cấp Lên Laravel Modules (11 videos)
+
+    - Laravel Modules
+    
+    - Folder, Files, Service Provider
+
+Module 20: Project (43 videos)
+
+    - Build a Website "Online formation" 
+    
+        - Users, Admin, Categories, Courses, Teachers, ....
+        
+        - Module Authentication
+        
+        - Authorization
+        
+        - Validation
+        
+        - Ckeditor , FileManager
