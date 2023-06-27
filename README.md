@@ -3,7 +3,7 @@ Formation en ligne sur "Web Development with Laravel framework"
 
 Le cours contient 20 modules = 241 vidéos de 5-30min/vidéo.
 
-Avancement : actuellement sur la vidéo 110 (Projet sur Authentication et Authorization)
+Avancement : actuellement sur la vidéo 134 (RESTful API)
 
 
 Détails de la formation:
