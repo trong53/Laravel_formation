@@ -1,18 +1,15 @@
 # Laravel_formation
-Formation en ligne sur "Web Development with Laravel framework" 
+## Formation en ligne sur "Web Development with Laravel framework" 
 
-Le cours contient 20 modules = 241 vidéos de 5-30min/vidéo.
+## Le cours contient 20 modules = 243 vidéos de 5-30min/vidéo = 54 heures de vidéos
 
-Avancement : actuellement sur la vidéo 134 (RESTful API)
+## Détails de la formation:
 
-
-Détails de la formation:
-
-Module 01: Introduction of Laravel Framework (3 videos)
+### Module 01: Introduction of Laravel Framework (3 videos)
 
     - Presentation, Set-up, folder structure in Laravel project, lifetime of Request
     
-Module 02: Basic programmation with Laravel Framework (24 vidéos)
+### Module 02: Basic programmation with Laravel Framework (24 vidéos)
     
     - Routing (Route), Controller, Middleware, View, HTTP Request, HTTP Response
     
@@ -20,7 +17,7 @@ Module 02: Basic programmation with Laravel Framework (24 vidéos)
     
     - Form's Validation
 
-Module 03: Database in Laravel (16 videos)
+### Module 03: Database in Laravel (16 videos)
 
     - Database (raw queries)
     
@@ -28,7 +25,7 @@ Module 03: Database in Laravel (16 videos)
     
     - Mini project : create, read, update, delete of Users, Filters, Pagination.
 
-Module 04: Eloquent ORM Laravel (17 videos)
+### Module 04: Eloquent ORM Laravel (17 videos)
 
     - Queries (CRUD), Soft Deletes
     
@@ -36,7 +33,7 @@ Module 04: Eloquent ORM Laravel (17 videos)
     
     - Query in relation tables
 
-Module 05: Migrations - Seeder (9 videos)
+### Module 05: Migrations - Seeder (9 videos)
 
     - General view
     
@@ -44,7 +41,7 @@ Module 05: Migrations - Seeder (9 videos)
     
     - Seeder
 
-Module 06: Authentication in Laravel (9 videos)
+### Module 06: Authentication in Laravel (9 videos)
 
     - Configuration and Setup
     
@@ -56,17 +53,17 @@ Module 06: Authentication in Laravel (9 videos)
     
     - Authentication by Email (sending email, confirmation by email) and "forget password"
 
-Module 07: Multiple Authentication in Laravel (5 videos)
+### Module 07: Multiple Authentication in Laravel (5 videos)
 
     - Guards and customize Guards
 
-Module 08: Authorization Laravel (29 videos)
+### Module 08: Authorization Laravel (29 videos)
 
     - Authorization - Gate - Policy - Policy Filter
     
     - Authorization Project
 
-Module 09: Login via social networks (9 videos)
+### Module 09: Login via social networks (9 videos)
 
     - Laravel Social Login with Facebook
     
@@ -76,7 +73,7 @@ Module 09: Login via social networks (9 videos)
      
     - Laravel Social Login with Github
 
-Module 10: RESTful API in Laravel (17 videos)
+### Module 10: RESTful API in Laravel (17 videos)
 
     - API, RESTful API CURD
     
@@ -86,17 +83,17 @@ Module 10: RESTful API in Laravel (17 videos)
     
     - API + Laravel Passport
 
-Module 11: Build an application with OAuth 2.0 (4 videos)
+### Module 11: Build an application with OAuth 2.0 (4 videos)
 
     - Setup of OAuth 2.0, Management of client for Service API
 
-Module 12: Laravel Queue (4 videos)
+### Module 12: Laravel Queue (4 videos)
 
-Module 13: Task Scheduler and Cronjob (4 videos)
+### Module 13: Task Scheduler and Cronjob (4 videos)
 
-Module 14: Compiling Asset with Laravel Mix (8 videos)
+### Module 14: Compiling Asset with Laravel Mix (8 videos)
 
-Module 15: Laravel Cache - Performance Optimisation (10 videos)
+### Module 15: Laravel Cache - Performance Optimisation (10 videos)
 
     - Cache, Cache Driver
     
@@ -104,7 +101,7 @@ Module 15: Laravel Cache - Performance Optimisation (10 videos)
     
     - Cache Helper, Cache Tags
 
-Module 16: Laravel Event (6 videos)
+### Module 16: Laravel Event (6 videos)
 
     - Event - Listenier - Dispatch Event
     
@@ -112,23 +109,23 @@ Module 16: Laravel Event (6 videos)
     
     - Model Events
 
-Module 17: Artisan Console (7 videos)
+### Module 17: Artisan Console (7 videos)
 
     - Create artisan consoles
     
     - Artisan Console Install Laravel
 
-Module 18: Repository Design Pattern (4 videos)
+### Module 18: Repository Design Pattern (4 videos)
 
     - Repository Interface, Base Repository
 
-Module 19: Nâng Cấp Lên Laravel Modules (11 videos)
+### Module 19: Nâng Cấp Lên Laravel Modules (11 videos)
 
     - Laravel Modules
     
     - Folder, Files, Service Provider
 
-Module 20: Project (43 videos)
+### Module 20: Project (43 videos)
 
     - Build a Website "Online formation" 
     
