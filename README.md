@@ -119,7 +119,7 @@
 
     - Repository Interface, Base Repository
 
-### Module 19: Nâng Cấp Lên Laravel Modules (11 videos)
+### Module 19: Upgrade to Laravel Modules (11 videos)
 
     - Laravel Modules
     
